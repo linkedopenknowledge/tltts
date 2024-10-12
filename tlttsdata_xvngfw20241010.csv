@@ -1,21 +1,40 @@
-﻿recno,text,text_adjusted,active,editor,processed
-1,text 1,text 1 (a),1,n.d.,0
-2,text 2,text 2 (a),1,n.d.,0
-3,text 3,text 3 (a),1,n.d.,0
-4,text 4,text 4 (a),1,n.d.,0
-5,text 5,text 5 (a),1,n.d.,0
-6,text 6,text 6 (a),1,n.d.,0
-7,text 7,text 7 (a),1,n.d.,0
-8,text 8,text 8 (a),1,n.d.,0
-9,text 9,text 9 (a),1,n.d.,0
-10,text 10,text 10 (a),1,n.d.,0
-11,text 11,text 11 (a),1,n.d.,0
-12,text 12,text 12 (a),1,n.d.,0
-13,text 13,text 13 (a),1,n.d.,0
-14,text 14,text 14 (a),1,n.d.,0
-15,text 15,text 15 (a),1,n.d.,0
-16,text 16,text 16 (a),1,n.d.,0
-17,text 17,text 17 (a),1,n.d.,0
-18,text 18,text 18 (a),1,n.d.,0
-19,text 19,text 19 (a),1,n.d.,0
-20,text 20,text 20 (a),1,n.d.,0
+recid,text,text_adjusted,active,editor,processed
+zarma_mathieu_5354644dde7kdkhfflhygw__Yesu Almasihu baaro kan Matta hamtum.,Yesu Almasihu baaro kan Matta hamtum.,Yesu Almasihu baaro kan Matta hamtum.,1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Matta, suura fo.","Matta, suura fo.","Matta, suura fo.",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yesu Almasihu kaajo tira neeya, Dawda izo, Ibrahim ize.","Yesu Almasihu kaajo tira neeya, Dawda izo, Ibrahim ize.","Yesu Almasihu kaajo tira neeya, Dawda izo, Ibrahim ize.",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Ibrahim na Isaka hay,","Ibrahim na Isaka hay,","Ibrahim na Isaka hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Isaka mo na Yakuba hay,","Isaka mo na Yakuba hay,","Isaka mo na Yakuba hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yakuba na Yahuda nda nga nya-izey hay, 3 Yahuda na Farisa nda Zera hay Tamar gaa, Farisa mo na Hezron hay,","Yakuba na Yahuda nda nga nya-izey hay, 3 Yahuda na Farisa nda Zera hay Tamar gaa, Farisa mo na Hezron hay,","Yakuba na Yahuda nda nga nya-izey hay, 3 Yahuda na Farisa nda Zera hay Tamar gaa, Farisa mo na Hezron hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Hezron na Arama hay,","Hezron na Arama hay,","Hezron na Arama hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Arama na Aminadab hay, Aminadab na Nason hay, Nason na Salmon hay,","Arama na Aminadab hay, Aminadab na Nason hay, Nason na Salmon hay,","Arama na Aminadab hay, Aminadab na Nason hay, Nason na Salmon hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Salmon na Buwaza hay Rahab gaa,","Salmon na Buwaza hay Rahab gaa,","Salmon na Buwaza hay Rahab gaa,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Buwaza na Obida hay Ruta gaa, Obida na Yasse hay,","Buwaza na Obida hay Ruta gaa, Obida na Yasse hay,","Buwaza na Obida hay Ruta gaa, Obida na Yasse hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yasse mo na Bonkoono Dawda hay. Dawda mo na Suleymanu hay Uriya wande zeena gaa, Suleymanu mo na Rehobowam hay,","Yasse mo na Bonkoono Dawda hay. Dawda mo na Suleymanu hay Uriya wande zeena gaa, Suleymanu mo na Rehobowam hay,","Yasse mo na Bonkoono Dawda hay. Dawda mo na Suleymanu hay Uriya wande zeena gaa, Suleymanu mo na Rehobowam hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Rehobowam na Abiya hay,","Rehobowam na Abiya hay,","Rehobowam na Abiya hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Abiya na Asa hay,","Abiya na Asa hay,","Abiya na Asa hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Asa na Yehosafat hay,","Asa na Yehosafat hay,","Asa na Yehosafat hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yehosafat mo na Yoram hay,","Yehosafat mo na Yoram hay,","Yehosafat mo na Yoram hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yoram na Uzziya hay,","Yoram na Uzziya hay,","Yoram na Uzziya hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Uzziya na Yotam hay,","Uzziya na Yotam hay,","Uzziya na Yotam hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yotam na Ahaz hay, Ahaz na Hezeciya hay, Hezeciya na Manasse hay,","Yotam na Ahaz hay, Ahaz na Hezeciya hay, Hezeciya na Manasse hay,","Yotam na Ahaz hay, Ahaz na Hezeciya hay, Hezeciya na Manasse hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Manasse na Amon hay,","Manasse na Amon hay,","Manasse na Amon hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Amon na Yosiya hay,","Amon na Yosiya hay,","Amon na Yosiya hay,",1,n.d.,1
+zarma_mathieu_5354644dde7kdkhfflhygw__Yosiya na Yekoniya nda nga nya-izey hay dira ka koy Babila yaŋo alwaato ra. ,Yosiya na Yekoniya nda nga nya-izey hay dira ka koy Babila yaŋo alwaato ra. ,Yosiya na Yekoniya nda nga nya-izey hay dira ka koy Babila yaŋo alwaato ra. ,1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Dira ka koy Babila banda, Yekoniya na Salitila hay, Salitila na Zerubabel hay, Zerubabel na Abihud hay, Abihud na Eliyacim hay, Eliyacim na Azura hay, Azura na Zadok hay,","Dira ka koy Babila banda, Yekoniya na Salitila hay, Salitila na Zerubabel hay, Zerubabel na Abihud hay, Abihud na Eliyacim hay, Eliyacim na Azura hay, Azura na Zadok hay,","Dira ka koy Babila banda, Yekoniya na Salitila hay, Salitila na Zerubabel hay, Zerubabel na Abihud hay, Abihud na Eliyacim hay, Eliyacim na Azura hay, Azura na Zadok hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Zadok na Ahima hay, Ahima na Aliyuda hay,","Zadok na Ahima hay, Ahima na Aliyuda hay,","Zadok na Ahima hay, Ahima na Aliyuda hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Aliyuda na Eliyezar hay, Eliyezar na Mattana hay, Mattana na Yakuba hay,","Aliyuda na Eliyezar hay, Eliyezar na Mattana hay, Mattana na Yakuba hay,","Aliyuda na Eliyezar hay, Eliyezar na Mattana hay, Mattana na Yakuba hay,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yakuba na Yusufu, Maryama kurnyo, hay, Maryama kaŋ gaa i na Yesu, kaŋ se i ga ne Almasihu, hay.","Yakuba na Yusufu, Maryama kurnyo, hay, Maryama kaŋ gaa i na Yesu, kaŋ se i ga ne Almasihu, hay.","Yakuba na Yusufu, Maryama kurnyo, hay, Maryama kaŋ gaa i na Yesu, kaŋ se i ga ne Almasihu, hay.",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Kaayey kulu za Ibrahim gaa ka koy Dawda gaa, iway cindi taaci no. Dawda gaa ka koy Babila koyyaŋ diraw, nga mo iway cindi taaci no.","Kaayey kulu za Ibrahim gaa ka koy Dawda gaa, iway cindi taaci no. Dawda gaa ka koy Babila koyyaŋ diraw, nga mo iway cindi taaci no.","Kaayey kulu za Ibrahim gaa ka koy Dawda gaa, iway cindi taaci no. Dawda gaa ka koy Babila koyyaŋ diraw, nga mo iway cindi taaci no.",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Babila koyyaŋ diraw banda mo ka kaa Almasihu gaa, kaay way cindi taaci no.","Babila koyyaŋ diraw banda mo ka kaa Almasihu gaa, kaay way cindi taaci no.","Babila koyyaŋ diraw banda mo ka kaa Almasihu gaa, kaay way cindi taaci no.",1,n.d.,1
+zarma_mathieu_5354644dde7kdkhfflhygw__Mate kaŋ Yesu Almasihu hayyaŋo bara nd'a neeya:,Mate kaŋ Yesu Almasihu hayyaŋo bara nd'a neeya:,Mate kaŋ Yesu Almasihu hayyaŋo bara nd'a neeya:,1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__alwaato kaŋ i na hiijay alkawlo te a nyaŋo Maryama nda Yusufu game ra,","alwaato kaŋ i na hiijay alkawlo te a nyaŋo Maryama nda Yusufu game ra,","alwaato kaŋ i na hiijay alkawlo te a nyaŋo Maryama nda Yusufu game ra,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__za i mana care kubay jina,","za i mana care kubay jina,","za i mana care kubay jina,",1,n.d.,1
+zarma_mathieu_5354644dde7kdkhfflhygw__i na Maryama gar da gunde Biya Hanna do.,i na Maryama gar da gunde Biya Hanna do.,i na Maryama gar da gunde Biya Hanna do.,1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__A kurnyo Yusufu binde, zama nga wo boro adili no,","A kurnyo Yusufu binde, zama nga wo boro adili no,","A kurnyo Yusufu binde, zama nga wo boro adili no,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__a si ba nga m'a daŋ batama,","a si ba nga m'a daŋ batama,","a si ba nga m'a daŋ batama,",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__a miila nga m'a taŋ tuguyaŋ ra. Amma za a goono ga woodin fongu nga bina ra, kal Rabbi malayka bangay a se hindiri ra ka ne a se:","a miila nga m'a taŋ tuguyaŋ ra. Amma za a goono ga woodin fongu nga bina ra, kal Rabbi malayka bangay a se hindiri ra ka ne a se:","a miila nga m'a taŋ tuguyaŋ ra. Amma za a goono ga woodin fongu nga bina ra, kal Rabbi malayka bangay a se hindiri ra ka ne a se:",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__«Yusufu, Dawda izo, ma si humburu Maryama hiija, naŋ a ma ciya ni wande, zama izo kaŋ go a gunda ra din, Biya Hanno do wane no.","«Yusufu, Dawda izo, ma si humburu Maryama hiija, naŋ a ma ciya ni wande, zama izo kaŋ go a gunda ra din, Biya Hanno do wane no.","«Yusufu, Dawda izo, ma si humburu Maryama hiija, naŋ a ma ciya ni wande, zama izo kaŋ go a gunda ra din, Biya Hanno do wane no.",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__A ga ize aru hay, ni g'a maa daŋ Yesu mo, zama nga no ga nga borey faaba i zunubey gaa.»","A ga ize aru hay, ni g'a maa daŋ Yesu mo, zama nga no ga nga borey faaba i zunubey gaa.»","A ga ize aru hay, ni g'a maa daŋ Yesu mo, zama nga no ga nga borey faaba i zunubey gaa.»",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Woodin kulu mo, a ciya no zama i ma Rabbi sanno kaŋ a ci annabi do din toonandi kaŋ ne:","Woodin kulu mo, a ciya no zama i ma Rabbi sanno kaŋ a ci annabi do din toonandi kaŋ ne:","Woodin kulu mo, a ciya no zama i ma Rabbi sanno kaŋ a ci annabi do din toonandi kaŋ ne:",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__«Guna, wandiyo ga te gunde, a ga ize aru hay mo, i g'a maa daŋ Immanuwel,» (danga, Irikoy go iri game ra nooya.)","«Guna, wandiyo ga te gunde, a ga ize aru hay mo, i g'a maa daŋ Immanuwel,» (danga, Irikoy go iri game ra nooya.)","«Guna, wandiyo ga te gunde, a ga ize aru hay mo, i g'a maa daŋ Immanuwel,» (danga, Irikoy go iri game ra nooya.)",1,n.d.,1
+"zarma_mathieu_5354644dde7kdkhfflhygw__Yusufu tun nga jirbo gaa ka te sanda mate kaŋ cine Rabbi malayka na nga lordi nd'a. A na nga wando sambu. 25 Amma a man'a bay wayboro, kal a na izo hay. A n'a maa daŋ Yesu.","Yusufu tun nga jirbo gaa ka te sanda mate kaŋ cine Rabbi malayka na nga lordi nd'a. A na nga wando sambu. 25 Amma a man'a bay wayboro, kal a na izo hay. A n'a maa daŋ Yesu.","Yusufu tun nga jirbo gaa ka te sanda mate kaŋ cine Rabbi malayka na nga lordi nd'a. A na nga wando sambu. 25 Amma a man'a bay wayboro, kal a na izo hay. A n'a maa daŋ Yesu.",1,n.d.,1
